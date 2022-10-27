@@ -1,4 +1,4 @@
-# AdvJS-CA1-Rest_API
+# MERN-Rest_API
 
 # This is an application that is built using Node JS and Express web application framework. The MongoDB driver is used to access the MongoDB database. JWT tokens are used for user authentication.
 
